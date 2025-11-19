@@ -1,103 +1,75 @@
 <div align="center">
-
-# 👋 Hi, I’m **Muhammad Najib** — `@digitalninjanv`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Figtree\&size=26\&pause=1200\&center=true\&vCenter=true\&width=820\&lines=Full‑Stack+Builder+%7C+Android%2C+Web%2C+AI;Berkah+Digital+Official+%7C+Builds+for+UMKM+%26+Komunitas;Modern%2C+nyentrik%2C+dan+berkelas+%F0%9F%8E%A8)](https://git.io/typing-svg)
-
-[![Follow](https://img.shields.io/github/followers/digitalninjanv?label=Follow\&style=for-the-badge)](https://github.com/digitalninjanv)
-[![Stars](https://img.shields.io/github/stars/digitalninjanv?label=Stars\&style=for-the-badge)](https://github.com/digitalninjanv?tab=repositories)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://web.facebook.com/profile.php?id=100072528855819)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Digital+Ninja;Developer+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
-
----
-
-## 💫 Vibe
-
-> **Misi saya:** meracik aplikasi yang *useful*, tampil **modern**, dan tetap **nyentrik**. Fokus ke solusi nyata: Android, Web, dan AI buat kebutuhan komunitas dan UMKM lokal.
-
-* 📍 Magelang — Indonesia
-* 🧩 Stack favorit: **Flutter/Kotlin**, **Next.js/TypeScript**, **PHP (Laravel/Yii2)**, **Tailwind**, **MySQL/Firebase/Supabase**, **Python (bots)**
-* 🧪 Sering eksperimen: IPv6 hosting (Termux), GitHub Actions, prompt engineering
-* 🛠️ Brand: **Berkah Digital Official**
-
----
-
-## 🔥 Highlight Projects
-
-<p align="center">
-
-<a href="https://github.com/digitalninjanv/Template-web-desa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalninjanv&repo=Template-web-desa&show_owner=true" alt="Template-web-desa" />
-</a>
-<a href="https://github.com/digitalninjanv/Judol-Hunter-Ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalninjanv&repo=Judol-Hunter-Ai&show_owner=true" alt="Judol-Hunter-Ai" />
-</a>
-<a href="https://github.com/digitalninjanv/Pameran-Digital">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalninjanv&repo=Pameran-Digital&show_owner=true" alt="Pameran-Digital" />
-</a>
-<a href="https://github.com/digitalninjanv/wedding">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalninjanv&repo=wedding&show_owner=true" alt="wedding" />
-</a>
-<a href="https://github.com/digitalninjanv/Game-kemerdekaan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalninjanv&repo=Game-kemerdekaan&show_owner=true" alt="Game-kemerdekaan" />
-</a>
-<a href="https://github.com/digitalninjanv/Drex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=digitalninjanv&repo=Drex&show_owner=true" alt="Drex" />
-</a>
-
-</p>
-
-> **Saran pin urutan:** `Template-web-desa` → `Judol-Hunter-Ai` → `Pameran-Digital` → `wedding` → `Game-kemerdekaan` → `Drex`.
-
----
-
-## 🧰 Toolbox
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-41B883?logo=yii\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2B5B84?logo=python\&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/digitalninjanv">
+    <img src="https://img.shields.io/github/followers/digitalninjanv?label=Followers&style=social" alt="GitHub Badge"/>
+  </a>
+  <a href="https://github.com/digitalninjanv?tab=repositories">
+    <img src="https://img.shields.io/github/stars/digitalninjanv?style=social" alt="GitHub Stars"/>
+  </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=digitalninjanv&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=digitalninjanv&hide_border=false" height="160" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalninjanv&layout=compact" height="160" alt="top-langs" />
+<br/>
 
+### ⚡ About Me
+
+Hi, I'm **@digitalninjanv**. I am a passionate developer focused on building efficient and modern solutions. I love exploring new technologies and automating workflows.
+
+- 🔭 I’m currently working on **Open Source Projects & Web Development**
+- 🌱 I’m currently learning **AI Integration & Advanced Python**
+- 💬 Ask me about **Python, Web Tech, and Automation**
+- 📫 How to reach me: **digitalninja.net@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</div>
+
+<br/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=digitalninjanv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="digitalninjanv's Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalninjanv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalninjanv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🗺️ Now & Next
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=digitalninjanv&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+</div>
 
-* 🔭 **Now:** polishing Android **wedding invitation** & **game kemerdekaan**, eksplor **AI tools** untuk moderation konten.
-* 🧪 **R\&D:** IPv6 Termux hosting + Next.js edge runtime.
-* 🤝 **Open for:** freelance, kolaborasi komunitas, dan proyek UMKM.
+<br/>
 
----
-
-## 📫 Contact & Links
-
-* 💼 **Berkah Digital Official**
-* 🌐 **GitHub:** [github.com/digitalninjanv](https://github.com/digitalninjanv)
-* 👍 **Facebook:** [facebook.com/…/100072528855819](https://web.facebook.com/profile.php?id=100072528855819)
-
----
-
-<sub>© 2025 — Made with 💚 by Najib • Style: modern, nyentrik, & rapi.</sub>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=digitalninjanv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <sub><i>"Code is like humor. When you have to explain it, it’s bad."</i></sub>
+</div>
