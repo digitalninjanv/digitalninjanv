@@ -1,72 +1,146 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=200&section=header&text=Digital%20Ninja&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" alt="Header Animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Digital%20Ninja&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e293b,100:06b6d4&fontColor=ffffff&animation=fadeIn&desc=AI%20•%20Cloud%20•%20Modern%20Web%20Architecture&descAlignY=60&descSize=18"/>
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/digitalninjanv">
-    <img src="https://img.shields.io/github/followers/digitalninjanv?label=Followers&style=social" alt="Followers" />
-  </a>
-  <a href="https://github.com/digitalninjanv?tab=repositories">
-    <img src="https://img.shields.io/github/stars/digitalninjanv?style=social" alt="Stars" />
-  </a>
-  <br/>
-  <br/>
-</div>
 
-### 👋 Hello World!
+# ⚡ Building Intelligent Digital Experiences
 
-I am **@digitalninjanv**, a developer focused on creating modern, scalable, and efficient software solutions. I combine creativity with logic to build applications that work seamlessly.
+Modern fullstack developer focused on scalable systems, AI-powered applications, cloud-native architecture, and premium user experiences.
 
-* 🔭 **Working on:** Enterprise Web Applications & Automation Tools.
-* 🌱 **Learning:** Advanced Cloud Architecture & AI Implementation.
-* ⚡ **Motto:** *"Clean code is not just a rule, it's a lifestyle."*
-
----
-
-### 🛠️ Technology Stack
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-
-<br/>
-
-### 📊 Coding Analytics
-
-<div align="center">
-  <a href="https://github.com/digitalninjanv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalninjanv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/digitalninjanv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalninjanv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalninjanv&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </div>
 
 ---
 
-### 🤝 Let's Connect
+## 🧠 About Me
+
+```ts
+const digitalNinja = {
+  role: "Fullstack Developer",
+  focus: [
+    "AI Web Applications",
+    "Modern Frontend Architecture",
+    "Cloud Infrastructure",
+    "Automation Systems",
+    "Developer Experience"
+  ],
+  mindset: "Clean code. Smart systems. Human-centered design.",
+  currentlyBuilding: "Next-generation digital products"
+}
+````
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  
-  <a href="mailto:digitalninja.net@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 
-  <a href="https://wa.me/6285602323289">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind,cloudflare,docker,linux,postgres,mongodb,firebase,git,github,vscode,figma&perline=8" />
 
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=digitalninjanv&label=PROFILE+VIEWS&color=00f2ea&style=flat-square" alt="Views" />
+</div>
+
+---
+
+## ⚡ Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### Frontend Engineering
+
+* Next.js App Router
+* React Architecture
+* Tailwind CSS
+* Motion UI
+* Responsive Systems
+* Design Systems
+
+</td>
+
+<td width="50%">
+
+### Backend & Cloud
+
+* Node.js APIs
+* Edge Runtime
+* Cloudflare Ecosystem
+* PostgreSQL
+* Docker
+* CI/CD Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=digitalninjanv&show_icons=true&hide_border=true&bg_color=00000000&title_color=06b6d4&text_color=94a3b8&icon_color=06b6d4"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalninjanv&hide_border=true&background=00000000&stroke=06b6d4&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4"/>
+
+</div>
+
+---
+
+## 🌌 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digitalninjanv&bg_color=00000000&color=06b6d4&line=06b6d4&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠 Current Focus
+
+* AI-powered platforms
+* Edge computing architecture
+* Modern UI systems
+* High-performance web apps
+* Automation infrastructure
+* Developer tooling
+
+---
+
+## 🌍 Philosophy
+
+> Great products are built from the intersection of engineering, design, and intelligence.
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/digitalninjanv">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Engineering Future-Ready Digital Systems
+
+<img src="https://komarev.com/ghpvc/?username=digitalninjanv&style=flat-square&color=06b6d4"/>
 
 </div>
