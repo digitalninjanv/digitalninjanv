@@ -153,7 +153,7 @@ For the latest projects, see the repository list:
 ## Contact
 
 <p>
-  <a href="mailto:sbisa054@gmail.com">
+  <a href="mailto:digitalninja.net@gmail.com">
     <img src="https://img.shields.io/badge/Email-sbisa054%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/digitalninjanv">
@@ -166,4 +166,4 @@ For the latest projects, see the repository list:
 <p align="center">
   Clean software. Practical systems. Continuous improvement.
 </p>
-```
+
