@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Digital Ninja</h1>
 
 <p align="center">
